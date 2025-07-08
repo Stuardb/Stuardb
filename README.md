@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Stuardb
-- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Web Development and cloud tools
 - 👍 I’m looking to collaborate on custom-built enterprise software
 - 📫 How to reach me ...
